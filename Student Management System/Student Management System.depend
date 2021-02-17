@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540715888 source:c:\users\girish mondal\desktop\project\student management system\main.cpp
+	<conio.h>
+	<process.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
